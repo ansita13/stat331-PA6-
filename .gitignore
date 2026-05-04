@@ -2,6 +2,10 @@
 .Rhistory
 .Rapp.history
 
+# R Project Files
+*.Rproj
+*.html
+
 # Session Data files
 .RData
 .RDataTmp
