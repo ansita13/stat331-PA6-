@@ -1,5 +1,7 @@
 ---
 title: "Practice Activity 6"
+author: Auster, Ansita, Sage
+
 format: html
 editor: visual
 embed-resources: true
