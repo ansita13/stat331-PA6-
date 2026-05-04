@@ -1,6 +1,7 @@
 ---
 title: "Practice Activity 6"
-author: Ansita Agrawal, Austin Zhang, Sage Kelsi
+author: Auster, Ansita, Sage
+
 format: html
 editor: visual
 embed-resources: true
